@@ -12,7 +12,7 @@ A project for creating multi-section landing page, with dynamically updating nav
 
 ## Project Files
 
-The project consists of theree main files 
+The project consists of three main files 
     - index.html 
     - js/app.js 
     - css/styles.css
